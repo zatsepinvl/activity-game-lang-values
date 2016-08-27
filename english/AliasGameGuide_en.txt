@@ -1,0 +1,8 @@
+﻿    0. All you need for this game are at least 4 players and good mood =).
+    1. All players are divided into teams of at least 2 people in each. The main aim of all teams is to score the most points by guessing words. The required number of points to win is negotiated before the game.
+    2. Each team starts round according the queue. Colors help to find out which team is playing now.
+    3. One of the players in the team - a leader, he or she must verbally explain as many words as possible to others members (guessers) of the team for some time after the timer starts. Team's leader is changed according the queue. There is an opportunity to skip the word for 1 point. Only “Speak” activity is allowed.
+        3.1. Speak - the leader should explain the word using the verbal form of communication. Using derivatives or root word of the hidden word are prohibited.
+    4. The team should honestly answer the question after the round. Then the turn passes to the next team.
+    5. Game is going on until one team gets points to win.
+        5.1. The leading team is the one that has the most points at the end of the round.
