@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Activity Game</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="action">
+        <item>Рассказать</item>
+        <item>Показать</item>
+        <item>Нарисовать</item>
+        <item>раунд пропущен</item>
+    </string-array>
+
+    <string-array name="word_types">
+        <item>Существительные</item>
+        <item>Глаголы</item>
+        <item>Прилагательные</item>
+    </string-array>
+
+    <string-array name="language">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="language_short">
+        <item>en</item>
+        <item>ru</item>
+    </string-array>
+
+    <string-array name="notification">
+        <item>Ничего</item>
+        <item>Вибрация</item>
+        <item>Звук</item>
+        <item>Вибрация и Звук</item>
+    </string-array>
+
+    <string name="default_team_label">Super team</string>
+
+    <string name="main_title">Activity Game</string>
+    <string name="title_activity_after_game">AfterGame</string>
+    <string name="title_activity_before_game">BeforeGame</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="main_view_pager_round">Round</string>
+    <string name="main_view_pager_progress_field">Game Field</string>
+    <string name="main_view_pager_stat">Statistics</string>
+    <string name="main_view_pager_game_modes">Режимы</string>
+    <string name="main_view_pager_teams">Команды</string>
+
+    <string name="pointLostNotification">Очков за эту игру:</string>
+    <string name="sureToSkip">Пропустить этот раунд?</string>
+    <string name="sureToSkipPos">Пропустить</string>
+    <string name="sureToSkipNeg">Не сдаемся!</string>
+    <string name="saveDialogPositiveText">Сохранить</string>
+    <string name="cancelDialogNegativeText">Отменить</string>
+    <string name="refreshTeamsScore">Начать новую игру?</string>
+    <string name="refreshTeamsScorePos">Начать</string>
+    <string name="refreshTeamsScoreNeg">Отменить</string>
+    <string name="editTeamDialogTitle">Изменить команду</string>
+    <string name="afterGameResultingQuestion">Слово было отгадано?</string>
+    <string name="afterGameResultPointsTextViewHint">+5</string>
+    <string name="editTeamLabelTextView">Название</string>
+    <string name="editTeamColorTextView">Цвет</string>
+    <string name="singleGameTimerTextViewHint">01:00</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="settingsSetToDefaultDialogTitle">Установить настройки по-умолчанию?</string>
+    <string name="settingsSetToDefaultDialogPositiveText">Установить</string>
+    <string name="settingsSetToDefaultDialogNegativeText">Отменить</string>
+    <string name="settingsLanguageDialogTitle">Язык</string>
+    <string name="settingsTimerIntervalLabel">Время таймера</string>
+    <string name="settingsMaxScoreTitle">Начальный балл</string>
+    <string name="settingsMinScoreTitle">Минимальный балл</string>
+    <string name="settingsLanguageTitle">Язык</string>
+    <string name="settingsHardModeTitle">Повышенная сложность</string>
+    <string name="settingsHardModeDialogContent">В режиме повышенной сложности таймер запускается сразу после начала раунда. Возможности обновить слово и действие нет.</string>
+    <string name="settingsWordTypesTitle">Части речи</string>
+
+    <string name="ok">OK</string>
+    <string name="rateDialogTitle">Понравилось приложение Activity Game? Поставьте оценку!</string>
+    <string name="rateDialogPositive">Go Google Play!</string>
+    <string name="rateDialogNegative">Позже</string>
+    <string name="offerAddingItemDialogContent">Для того, чтобы начать игру необходимо добавить хотя бы одну команду.</string>
+    <string name="round">Раунд</string>
+    <string name="title_activity_paint">PaintActivity</string>
+    <string name="offerAddingItemDialogPositive">Добавить</string>
+    <string name="settingsTimerNotificationTitle">Оповещение таймера</string>
+    <string name="activityHint">Действие</string>
+    <string name="wordHint">Слово</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="scoreGameHint">+5</string>
+    <string name="helpEndLogo">Удачной игры!</string>
+    <string name="helpLogo">Activity Game Guide</string>
+    <string name="new_game">Новая игра</string>
+    <string name="start_new_game_q">Начать новую игру?</string>
+    <string name="start">Начать</string>
+    <string name="cancel">Отменить</string>
+    <string name="points_to_win">Очков для победы</string>
+    <string name="loading">Загрузка…</string>
+    <string name="statistics">Статистика</string>
+    <string name="game_field">Игровое поле</string>
+    <string name="delete_last_team_notification">Для игры нужна как минимум одна команда.</string>
+    <string name="winner">Победитель</string>
+    <string name="position">место</string>
+    <string name="congratulations">Поздавляем, команда</string>
+    <string name="wins_ep">побеждает!</string>
+    <string name="settings">Настройки</string>
+    <string name="add_team">Добавить команду</string>
+    <string name="finish_game_q">Законить игру?</string>
+    <string name="finish">Закончить</string>
+    <string name="title_activity_test">TestActivity</string>
+
+
+    <!--Strings for main intro-->
+    <string name="intoMainT1">Добро пожаловать</string>
+    <string name="intoMainD1">Любите вечеринки или интеллектуальные игры?\nВы на верном пути!</string>
+    <string name="intoMainT2">Испытай воображение и логику!</string>
+    <string name="intoMainD2">Сможешь ли ты объяснить слово так, чтобы твой друг его отгадал?\nДавай попробуем!</string>
+    <string name="intoMainT3">Шаг 1: Участники</string>
+    <string name="intoMainD3">Собери своих друзей и разделись на команды по 2 человека минимум в каждой.</string>
+    <string name="intoMainT4">Шаг 2: Игровой режим</string>
+    <string name="intoMainD4">Выбери игровой режим и количество очков для победы.</string>
+    <string name="intoMainT5">Шаг 3: Команды</string>
+    <string name="intoMainD5">Выбери название и цвет каждой команде.</string>
+    <string name="intoMainT6">Шаг 4: Игра</string>
+    <string name="intoMainD6">Играй и наслаждайся!</string>
+    <string name="up_to">"До"</string>
+
+
+    <!--Activity showcase -->
+    <string name="currentTeam">Текущая команда</string>
+    <string name="gameInfo">Игровая информация</string>
+    <string name="next">Далее</string>
+    <string name="startRound">Начать раунд</string>
+    <string name="skipRound">Пропустить раунд</string>
+    <string name="done">Готово!</string>
+    <string name="youShouldExmplain">Вы должны объяснить это слово..</string>
+    <string name="accordingThisActivity">..согласно этому действию..</string>
+    <string name="forTimeLimit">..за ограниченное время.</string>
+    <string name="ifYourTeamGuess">Если Ваша команда отгадает слово, вы получите эти баллы</string>
+    <string name="drawOnTheScreen">Рисовать на экране (только в случае действия “Нарисовать”)</string>
+    <string name="hideWord">Скрыть слово</string>
+    <string name="stopActivityGame">Остановить игру</string>
+
+    <!--NewGameWizard-->
+    <string name="step1Choose">Шаг 1</string>
+    <string name="step2ChoosePoints">Шаг 2</string>
+    <string name="Step3CreatTeams">Шаг 3</string>
+    <string name="mainMenuNativeAdUnitId">ca-app-pub-5369622084298684/7181908450</string>
+    <string name="authorEmail">zatsepin.vl@gmail.com</string>
+    <string name="sendEmail">Отправить письмо…</string>
+    <string name="youShouldExplain">Вы должны устно объяснить это слово..</string>
+    <string name="forTimeLimit2">..за ограниченное время..</string>
+    <string name="ifCurrentWord">Если текущее слово было отгадано, перейдите к следующему,..</string>
+    <string name="increaseTotalPoints">..увеличив общий счет</string>
+    <string name="alsoYouCanSkip">Также возможно пропустить слово (шраф -1 бал)</string>
+    <string name="stopGame">Остановить игру досрочно</string>
+    <string name="choose_game_mode">Выберите игровой режим</string>
+    <string name="create_teams">Создайте команды</string>
+    <string name="set_points_to_win">Установите количество очков для победы</string>
+    <string name="newGame">Новая игра</string>
+    <string name="continue_">Продолжить</string>
+    <string name="disable_ads">Отключить рекламу</string>
+    <string name="adHaveBeenDisabled">Реклама была отключена!</string>
+    <string name="select_difficulty_level">Выберите уровень сложности:</string>
+
+    <string name="shouldSelect">Выберите сложность случайного слова, которое Вы должны будете объяснить согласно..</string>
+    <string name="gameAction">..этому действию</string>
+    <string name="timesUp">Время вышло</string>
+</resources>
